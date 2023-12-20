@@ -1,0 +1,894 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+
+    },
+    "[Int]" : {
+
+    },
+    "%@" : {
+
+    },
+    "%@, %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@, %2$@"
+          }
+        }
+      }
+    },
+    "%lf" : {
+
+    },
+    "%lld selections" : {
+
+    },
+    "↑" : {
+
+    },
+    "😇" : {
+
+    },
+    "🛝" : {
+
+    },
+    "1" : {
+
+    },
+    "2" : {
+
+    },
+    "3" : {
+
+    },
+    "4" : {
+
+    },
+    "5" : {
+
+    },
+    "6" : {
+
+    },
+    "7" : {
+
+    },
+    "8" : {
+
+    },
+    "9" : {
+
+    },
+    "10" : {
+
+    },
+    "11" : {
+
+    },
+    "25% progress" : {
+
+    },
+    "75% progress" : {
+
+    },
+    "abc" : {
+
+    },
+    "Account" : {
+
+    },
+    "Actions" : {
+
+    },
+    "Add Bookmark" : {
+
+    },
+    "Add Bookmarks for All Tabs" : {
+
+    },
+    "Add to Favorites" : {
+
+    },
+    "Add to Reading List" : {
+
+    },
+    "Alignment Guides" : {
+
+    },
+    "Anything" : {
+
+    },
+    "apple" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "林檎"
+          }
+        }
+      }
+    },
+    "automatic" : {
+
+    },
+    "Bar" : {
+
+    },
+    "baselineOffset" : {
+
+    },
+    "Battery Level" : {
+
+    },
+    "Baz" : {
+
+    },
+    "black" : {
+
+    },
+    "body" : {
+
+    },
+    "bold" : {
+
+    },
+    "Border Thickness" : {
+
+    },
+    "bordered" : {
+
+    },
+    "borderedProminent" : {
+
+    },
+    "borderless" : {
+
+    },
+    "Button" : {
+
+    },
+    "Button(_:action:)" : {
+
+    },
+    "Button(action:label:)" : {
+
+    },
+    "C%lld" : {
+
+    },
+    "callout" : {
+
+    },
+    "cancel" : {
+
+    },
+    "capsule" : {
+
+    },
+    "caption" : {
+
+    },
+    "caption2" : {
+
+    },
+    "circle" : {
+
+    },
+    "Clear Image Cache" : {
+
+    },
+    "Colors" : {
+
+    },
+    "Column %lld" : {
+
+    },
+    "Combine" : {
+
+    },
+    "compressed" : {
+
+    },
+    "condensed" : {
+
+    },
+    "Copy" : {
+
+    },
+    "Copy Formatted" : {
+
+    },
+    "Copy Library Path" : {
+
+    },
+    "count" : {
+
+    },
+    "Current: %lld" : {
+
+    },
+    "date" : {
+
+    },
+    "Dates Available" : {
+
+    },
+    "default" : {
+
+    },
+    "defg" : {
+
+    },
+    "Delete…" : {
+
+    },
+    "destructive" : {
+
+    },
+    "Detail" : {
+
+    },
+    "didFail" : {
+
+    },
+    "Direct Messages" : {
+
+    },
+    "disabled" : {
+
+    },
+    "dismiss" : {
+
+    },
+    "Dismiss" : {
+
+    },
+    "dismissDate" : {
+
+    },
+    "Duplicate" : {
+
+    },
+    "E-Mail Address" : {
+
+    },
+    "Editor" : {
+
+    },
+    "Email 1" : {
+
+    },
+    "Email 2" : {
+
+    },
+    "Email 3" : {
+
+    },
+    "Employee ID: %@" : {
+
+    },
+    "enabled" : {
+
+    },
+    "End-User Agreement" : {
+
+    },
+    "Enhance Sound" : {
+
+    },
+    "errorModel.error" : {
+
+    },
+    "expanded" : {
+
+    },
+    "Family Name" : {
+
+    },
+    "Flag" : {
+
+    },
+    "Flavor" : {
+
+    },
+    "Foooooooo" : {
+
+    },
+    "footnote" : {
+
+    },
+    "foregroundStyle(.red)" : {
+
+    },
+    "Fruits" : {
+
+    },
+    "Given Name" : {
+
+    },
+    "head" : {
+
+    },
+    "Header" : {
+
+    },
+    "headline" : {
+
+    },
+    "heavy" : {
+
+    },
+    "Hello" : {
+
+    },
+    "Hello, World!" : {
+
+    },
+    "horizontal" : {
+
+    },
+    "I agree to the above terms" : {
+
+    },
+    "iconOnly" : {
+
+    },
+    "Inbox" : {
+
+    },
+    "IndexDisplayMode" : {
+
+    },
+    "Information" : {
+
+    },
+    "init(_:image:role:action:)" : {
+
+    },
+    "init(_:intent:)" : {
+
+    },
+    "init(_:systemImage:role:action:)" : {
+
+    },
+    "init(intent:label:)" : {
+
+    },
+    "init(role:intent:label:)" : {
+
+    },
+    "inline" : {
+
+    },
+    "isCircular" : {
+
+    },
+    "isDetailPresented" : {
+
+    },
+    "isPresented" : {
+
+    },
+    "isToolbarItemShown" : {
+
+    },
+    "italic" : {
+
+    },
+    "Item %lld" : {
+
+    },
+    "Items" : {
+
+    },
+    "kerning" : {
+
+    },
+    "key" : {
+
+    },
+    "label" : {
+
+    },
+    "Label" : {
+
+    },
+    "label without prompt" : {
+
+    },
+    "Large" : {
+
+    },
+    "largeTitle" : {
+
+    },
+    "light" : {
+
+    },
+    "Lightning" : {
+
+    },
+    "ListStyle" : {
+
+    },
+    "localizedErrorModel" : {
+
+    },
+    "Login" : {
+
+    },
+    "Login failed" : {
+
+    },
+    "Logout" : {
+
+    },
+    "long key" : {
+
+    },
+    "MailViewer" : {
+
+    },
+    "medium" : {
+
+    },
+    "Medium" : {
+
+    },
+    "Megan" : {
+
+    },
+    "Mentions" : {
+
+    },
+    "menu" : {
+
+    },
+    "middle" : {
+
+    },
+    "Mint" : {
+
+    },
+    "Mode Tab.sent" : {
+
+    },
+    "model" : {
+
+    },
+    "monospaced" : {
+
+    },
+    "monospaced 123" : {
+
+    },
+    "monospacedDigit 123" : {
+
+    },
+    "More" : {
+
+    },
+    "Move Tab.account" : {
+
+    },
+    "Move Tabreceived" : {
+
+    },
+    "Mute" : {
+
+    },
+    "MyButtonStyle" : {
+
+    },
+    "Name" : {
+
+    },
+    "navigationLink" : {
+
+    },
+    "NavigationPath" : {
+
+    },
+    "New mails you receive will appear here." : {
+
+    },
+    "No Value" : {
+
+    },
+    "none (nil)" : {
+
+    },
+    "Notifications" : {
+
+    },
+    "Notify Me About" : {
+
+    },
+    "offset" : {
+
+    },
+    "OK" : {
+
+    },
+    "Open Currently Reading" : {
+
+    },
+    "Open in Preview" : {
+
+    },
+    "palette" : {
+
+    },
+    "Password" : {
+
+    },
+    "path.count: %lld" : {
+
+    },
+    "Pause" : {
+
+    },
+    "PDF" : {
+
+    },
+    "pencil" : {
+
+    },
+    "Pets" : {
+
+    },
+    "Pink" : {
+
+    },
+    "placeholder" : {
+
+    },
+    "plain" : {
+
+    },
+    "Play" : {
+
+    },
+    "Play notification sounds" : {
+
+    },
+    "Plus" : {
+
+    },
+    "Present" : {
+
+    },
+    "PrimitiveButtonStyleConfiguration" : {
+
+    },
+    "Print" : {
+
+    },
+    "Profile Image Size" : {
+
+    },
+    "Prompt" : {
+
+    },
+    "prompt and label" : {
+
+    },
+    "prompt and title" : {
+
+    },
+    "prompt without title" : {
+
+    },
+    "Push" : {
+
+    },
+    "R%lld" : {
+
+    },
+    "range: %@" : {
+
+    },
+    "Received" : {
+
+    },
+    "regular" : {
+
+    },
+    "relative" : {
+
+    },
+    "Rename" : {
+
+    },
+    "Repeat" : {
+
+    },
+    "Request" : {
+
+    },
+    "Required" : {
+
+    },
+    "rounded" : {
+
+    },
+    "roundedRectangle" : {
+
+    },
+    "roundedRectangle(radius:))" : {
+
+    },
+    "Row %lld" : {
+
+    },
+    "Row 1" : {
+
+    },
+    "Row 2" : {
+
+    },
+    "Row 3" : {
+
+    },
+    "San Francisco City Hall" : {
+
+    },
+    "San Francisco Public Library" : {
+
+    },
+    "Save Achievement" : {
+
+    },
+    "Save as PDF" : {
+
+    },
+    "Scroll to Bottom" : {
+
+    },
+    "secondary" : {
+
+    },
+    "Section title" : {
+
+    },
+    "segmented" : {
+
+    },
+    "Select Multiple Photos" : {
+
+    },
+    "selection %@" : {
+
+    },
+    "semibold" : {
+
+    },
+    "Send read receipts" : {
+
+    },
+    "sensoryFeedback(_:trigger:condition:)" : {
+
+    },
+    "sensoryFeedback(trigger:_:)" : {
+
+    },
+    "Sent" : {
+
+    },
+    "serif" : {
+
+    },
+    "Share" : {
+
+    },
+    "sheet(isPresented:onDismiss)" : {
+
+    },
+    "sheet(item:onDismiss)" : {
+
+    },
+    "sheet(item:onDismiss) with \\\\.dismiss" : {
+
+    },
+    "Show All Bookmarks" : {
+
+    },
+    "show editor" : {
+
+    },
+    "Show in Maps" : {
+
+    },
+    "Shuffle" : {
+
+    },
+    "Small" : {
+
+    },
+    "standard" : {
+
+    },
+    "Start" : {
+
+    },
+    "Start Date" : {
+
+    },
+    "stepping by %lld" : {
+
+    },
+    "strikethrough" : {
+
+    },
+    "strikethrough(pattern:color:)" : {
+
+    },
+    "Sub-item 1" : {
+
+    },
+    "Sub-items" : {
+
+    },
+    "subheadline" : {
+
+    },
+    "Swift System" : {
+
+    },
+    "SwiftUI" : {
+
+    },
+    "Tab 1" : {
+
+    },
+    "Tab 2" : {
+
+    },
+    "Tab 3" : {
+
+    },
+    "TabViewStyle" : {
+
+    },
+    "Teal" : {
+
+    },
+    "text" : {
+
+    },
+    "Text" : {
+
+    },
+    "text shown" : {
+
+    },
+    "thin" : {
+
+    },
+    "time" : {
+
+    },
+    "timer" : {
+
+    },
+    "title" : {
+
+    },
+    "Title" : {
+
+    },
+    "Title Menu" : {
+
+    },
+    "title2" : {
+
+    },
+    "title3" : {
+
+    },
+    "Toggle" : {
+
+    },
+    "Toggle 1" : {
+
+    },
+    "Toggle 2" : {
+
+    },
+    "Top" : {
+
+    },
+    "Torigger Error" : {
+
+    },
+    "tracking" : {
+
+    },
+    "Trash" : {
+
+    },
+    "Trigger Alert" : {
+
+    },
+    "Turtle Rock" : {
+
+    },
+    "ultraLight" : {
+
+    },
+    "underline" : {
+
+    },
+    "underline(pattern:color:)" : {
+
+    },
+    "User name (email address)" : {
+
+    },
+    "User Profiles" : {
+
+    },
+    "Username" : {
+
+    },
+    "Value: %lld Color: %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Value: %1$lld Color: %2$@"
+          }
+        }
+      }
+    },
+    "Values" : {
+
+    },
+    "vertical" : {
+
+    },
+    "vertical lineLimit(2, reservesSpace: true)" : {
+
+    },
+    "vertical lineLimit(2)" : {
+
+    },
+    "vertical lineLimit(3...4)" : {
+
+    },
+    "Vibrate" : {
+
+    },
+    "Vibrate on Ring" : {
+
+    },
+    "View Our Terms of Service" : {
+
+    },
+    "View Settings" : {
+
+    },
+    "visibility" : {
+
+    },
+    "Water wheel" : {
+
+    },
+    "wheel" : {
+
+    },
+    "Work Folder" : {
+
+    },
+    "Workout" : {
+
+    },
+    "World" : {
+
+    }
+  },
+  "version" : "1.0"
+}
